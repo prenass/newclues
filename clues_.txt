@@ -1,23 +1,23 @@
 A Internet não é feita de fios de cobre, fibras de vidro, ondas de rádio ou mesmo canos.
 Os dispositivos que nós usamos para nos conectar à Internet não são a Internet.
-Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 não são donas da Internet. Facebook, Google e Amazon não são os monarcas da Rede, nem mesmo são seus minions or algorítmos. Nem os governos da Terra nem suas Earth nor their Associações de Comércio detêm o consenso dos concetados para cavalgar a Rede como soberanos.
-We hold the Internet in common and as unowned.
-From us and from what we have built on it does the Internet derive all its value.
-The Net is of us, by us, and for us.
-The Internet is ours.
-The Internet is not a thing any more than gravity is a thing. Both pull us together.
-The Internet is no-thing at all. At its base the Internet is a set of agreements, which the geeky among us (long may their names be hallowed) call "protocols," but which we might, in the temper of the day, call "commandments."
-The first among these is: Thy network shall move all packets closer to their destinations without favor or delay based on origin, source, content, or intent.
-Thus does this First Commandment lay open the Internet to every idea, application, business, quest, vice, and whatever.
-There has not been a tool with such a general purpose since language.
-This means the Internet is not for anything in particular. Not for social networking, not for documents, not for advertising, not for business, not for education, not for porn, not for anything. It is specifically designed for everything.
-Optimizing the Internet for one purpose de-optimizes it for all others.
-The Internet like gravity is indiscriminate in its attraction. It pulls us all together, the virtuous and the wicked alike.
-There is great content on the Internet. But holy mother of cheeses, the Internet is not made out of content.
-A teenager's first poem, the blissful release of a long-kept secret, a fine sketch drawn by a palsied hand, a blog post in a regime that hates the sound of its people's voices — none of these people sat down to write content.
-Did we use the word "content" without quotes? We feel so dirty.
-The Net is not a medium any more than a conversation is a medium.
-On the Net, we are the medium. We are the ones who move messages. We do so every time we post or retweet, send a link in an email, or post it on a social network.
+Verizon, Comcast, AT&T, Deutsche Telekom, and 中国电信 não são donas da Internet. Facebook, Google e Amazon não são os monarcas da Rede, nem mesmo são seus minions or algorítmos. Nem os governos da Terra nem suas Earth nor their Associações de Comércio detêm o consenso dos conectados para cavalgar a Rede como soberanos.
+Nós mantemos a Internet em comum e assim sem dono.
+De nós e do que construímos sobre ela, a Internet deriva todo o seu valor.
+A Net é de nós, por nós e para nós.
+A Internet é nossa.
+A Internet não é uma coisa mais do que a gravidade é uma coisa. Ambas nos puxam juntos.
+A Internet é uma não-coisa em tudo. Na sua base, a Internet é um conjunto de acordos, que o nerds entre nós (que seus nomes possam ser santificados) chamam de "protocolos", mas que nós devemos, no humor do dia, chamarmos de "mandamentos".
+O primeiro entre esses é: Tua rede deve deslocar todos os pacotes mais perto de seus destinos, sem favor ou atraso com base em origem, procedência, conteúdo ou intenção.
+Assim esse Primeiro Mandamento põe aberta a Internet para toda ideia, aplicação, negócio, procura, vício e tanto faz.
+Não existiu uma ferramenta com tal propósito geral desde a linguagem.
+Isso significa que a Internet não é para nada em particular. Nem para redes sociais, nem para documentos, nem para propagandas, nem para negócios, nem para educação, nem para pornografia, nem para nada. Ela é especificamente projetada para tudo.
+Otimizar a Internet para um propósito é des-otimizá-la para todos os outros.
+A Internet como a gravidade é indiscriminada em sua atração. Ela nos puxa todos juntos, o virtuoso e o malvado da mesma forma.
+Há vasto conteúdo na Internet. Mas minha nossa senhora, a Internet não é feita de conteúdo.
+O primeiro poema de um adolescente, o bem-aventurado lançamento de um segredo há muito guardado, o delgado esboço de um desenho por uma mão paralítica, um post de blog em um regime que odeia o som da voz das pessoa — nenhuma dessas pessoas se sentou para escrever conteúdo.
+Nós usamos a palava "conteúdo" sem aspas? Nós nos sentimos sujos.
+A Rede não é um meio mais do que uma conversa é um meio.
+Na Rede, nós somos o meio. Nós somos aqueles que movem as mensagens. We do so every time we post or retweet, send a link in an email, or post it on a social network.
 Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.
 Every time we move a message through the Net, it carries a little bit of ourselves with it.
 We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.
