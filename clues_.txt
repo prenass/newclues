@@ -18,23 +18,25 @@ O primeiro poema de um adolescente, o bem-aventurado lançamento de um segredo h
 Nós usamos a palava "conteúdo" sem aspas? Nós nos sentimos sujos.
 A Rede não é um meio mais do que uma conversa é um meio.
 Na Rede, nós somos o meio. Nós somos aqueles que movem as mensagens. We do so every time we post or retweet, send a link in an email, or post it on a social network.
-Unlike a medium, you and I leave our fingerprints, and sometimes bite marks, on the messages we pass. We tell people why we're sending it. We argue with it. We add a joke. We chop off the part we don't like. We make these messages our own.
-Every time we move a message through the Net, it carries a little bit of ourselves with it.
-We only move a message through this "medium" if it matters to us in one of the infinite ways that humans care about something.
-Caring — mattering — is the motive force of the Internet.
-In 1991, Tim Berners-Lee used the Net to create a gift he gave freely to us all: the World Wide Web. Thank you.
-Tim created the Web by providing protocols (there's that word again!) that say how to write a page that can link to any other page without needing anyone's permission.
-Boom. Within ten years we had billions of pages on the Web — a combined effort on the order of a World War, and yet so benign that the biggest complaint was the <blink> tag.
-The Web is an impossibly large, semi-persistent realm of items discoverable in their dense inter-connections.
-That sounds familiar. Oh, yeah, that's what the world is.
-Unlike the real world, every thing and every connection on the Web was created by some one of us expressing an interest and an assumption about how those small pieces go together.
-Every link by a person with something to say is an act of generosity and selflessness, bidding our readers leave our page to see how the world looks to someone else.
-The Web remakes the world in our collective, emergent image.
-It's important to notice and cherish the talk, the friendship, the thousand acts of sympathy, kindness, and joy we encounter on the Internet.
-And yet we hear the words "fag" and "nigger" far more on the Net than off.
-Demonization of 'them' — people with looks, languages, opinions, memberships and other groupings we don't understand, like, or tolerate — is worse than ever on the Internet.
-Women in Saudi Arabia can't drive? Meanwhile, halfof us can't speak on the Net without looking over our shoulders.
-Hatred is present on the Net because it's present in the world, but the Net makes it easier to express and to hear.
+
+Diferente de uma mídia, você e eu deixamos nossas digitais, e às vezes marcas de mordidas nas mensagens que passamos. Dizemos às pessoas porque estamos enviando a mensagem.  Nós argumentamos, adicionamos uma piadinha.  Nós cortamos a parte que não gostamos. A gente faz esse tipo de coisa.
+Toda vez que enviamos uma mensagem pela rede, ela carrega um pouco de nós com ela. 
+Só enviamos uma mensagem através de um meio se nos importamos com ela, em uma das infinitas maneiras que seres humanos se importam com algo. 
+Cuidar - se importar - é a força motriz da Internet. 
+Em 1991, Tim Berners-Lee usou a Internet para criar um presente que ele nos deu de graça: a World Wide Web. Obrigada. 
+Tim criou a Web por protocolos (Ahá! essa palavra de novo!) que nos dizem como escrever uma página para que ela possa se conectar com outras sem precisar que ninguém dê sua permissão. 
+Boom! Em 10 anos colocamos dez bilhões de páginas na Web - um esforço combinado do tamanho de uma guerra mundial, e ainda assim tão benigno que a maior reclamação contra isso era a tag <blink>. 
+A Web é um grande, semi-persistente reino de itens a descobrir, nas suas densas inter conexões. 
+Isso soa familiar. Ops, sim! Esse é o mundo como ele é. 
+Ao contrário do mundo real, cada coisa e cada conexão na Web foi criada por alguns de nós expressando um interesse e uma suposição sobre como pequenas peças podem se juntar. 
+Cada link realizado por uma pessoa com alguma coisa para dizer é um ato de generosidade e abnegação, ofertando nossos leitores a deixarem a nossa própria página para ver como o mundo se parece para outra pessoa. 
+A We remonta o mundo em nossa imagem coletiva mais emergente. 
+É importante perceber e nutrir essa conversa, as amizades, os milhares de atos de simpatia, docura e alegria que encontramos na Internet. 
+E ainda assim ouvimos palavras como "viadinho" e "negão" muito mais na rede do que fora dela. 
+A demonização 'deles' - pessoas com imagem, linguagem, opinião, afiliação e outro tipo de característica que não entendemos, gostamos ou toleramos - é pior do que nunca na internet. 
+As mulheres na Arábia Saudita não dirigem? Enquanto isso, metade de nós não pode falar na Rede sem parecer arrogante. 
+A rede está cheia de ódio porque está presente no mundo, mas a Rede facilita tanto que se expresse isso como que se ouça. 
+
 The solution: If we had a solution, we wouldn't be bothering you with all these damn clues.
 We can say this much: Hatred didn't call the Net into being, but it's holding the Net — and us — back.
 Let's at least acknowledge that the Net has values implicit in it. Human values.
