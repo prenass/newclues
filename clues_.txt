@@ -57,30 +57,31 @@ Você é bem vindo para se juntar a nossa conversa, mas apenas se você nos diss
 Cada vez que você nos chama de "consumidores" nós nos sentimos como vacas lendo a palavra "carne".
 Pare de fracionar nossas vidas para extrair dados que não são do seu interesse e que suas máquinas interpretam mal.
 Não se preocupe: nós vamos dizer a você quando nós estivermos no mercado por alguma coisa. Do nosso jeito. Não do seu. Confie em nós: isso vai ser bom pra você.
-Publicidades que soam humanas mas vêm das irritantes entranhas de seus departamentos de marketing mancham o tecido da Web.
+Anúncios publicitários que soam humanos mas vêm das irritantes entranhas de seus departamentos de marketing mancham o tecido da Web.
 Quando a personalização de algo é horripilante, isso é um baita indicação de que você não entende o que significa ser uma pessoa.
 Pessoal é humano. Personalizado não é.
 Quanto mais as máquinas soam humanas, mais elas escorregam para o misterioso vale onde tudo é um show de horrores.
-Ainda: Please stop dressing up ads as news in the hope we'll miss the little disclaimer hanging off their underwear.
-When you place a "native ad," you're eroding not just your own trustworthiness, but the trustworthiness of this entire new way of being with one another.
-And, by the way, how about calling "native ads" by any of their real names: "product placement," "advertorial," or "fake fuckinggosh darn news"?
-Advertisers got along without being creepy for generations. They can get along without being creepy on the Net, too.
-We all love our shiny apps, even when they're sealed as tight as a Moon base. But put all the closed apps in the world together and you have a pile of apps.
-Put all the Web pages together and you have a new world.
-Web pages are about connecting. Apps are about control.
-As we move from the Web to an app-based world, we lose the commons we were building together.
-In the Kingdom of Apps, we are users, not makers.
-Every new page makes the Web bigger. Every new link makes the Web richer.
-Every new app gives us something else to do on the bus.
-Ouch, a cheap shot!
-Hey, "CheapShot" would make a great new app! It's got "in-app purchase" written all over it.
-Non-neutral applications built on top of the neutral Net are becoming as inescapable as the pull of a black hole.
-If Facebook is your experience of the Net, then you've strapped on goggles from a company with a fiduciary responsibility to keep you from ever taking the goggles off.
-Google, Amazon, Facebook, Apple are all in the goggles business.  The biggest truth their goggles obscure: These companies want to hold us the way black holes hold light.
-These corporate singularities are dangerous not because they are evil. Many of them in fact engage in quite remarkably civic behavior. They should be applauded for that.
-But they benefit from the gravity of sociality: The "network effect" is that thing where lots of people use something because lots of people use it.
-Where there aren't competitive alternatives, we need to be hypervigilant to remind these Titans of the Valley of the webby values that first inspired them.
-And then we need to honor the sound we make when any of us bravely pulls away from them. It's something between the noise of a rocket leaving the launchpad and the rip of Velcro as you undo a too-tight garment.
+Ainda: Por favor pare de disfarçar anúncios como notícias na esperança de que nós não iremos notar aquele pequeno aviso saltando pra fora da cueca.
+Quando você veicula uma "publicidade nativa", você está erodindo não apenas sua confiabilidade, mas a confiabilidade de todo esse novo jeito de existir uns com os outros.
+E, a propósito, que tal chamar "publicidade nativa" por qualquer um dos seus nomes verdadeiros: "colocação de produto", "publieditorial," or "notícia falsa danada da porra"?
+Anunciantes se deram bem sem serem horripilantes pro gerações. Eles também conseguem se dar bem sem serem horripilantes na Rede.
+Nós todos amamos nossos apps brilhantes, mesmo quando eles estão embalados tão apertados quando uma base lunar. Mas coloque todos os apps fechados do mundo juntos e você tem uma pilha de apps.
+Coloque todas as páginas da Web juntas e você tem um novo mundo.
+Páginas da Web são sobre conexão. Apps são sobre controle.
+Enquanto nos movemos da Web para um mundo baseado em apps, nós perdemos o que nós estávamos construindo juntos em comum.
+No Reino dos Apps, nós somos pessoas usuárias, não produtoras.
+Cada nova página torna a Web maior. Cada novo torna a Web mais rica.
+Cada novo app nos dá outra coisa para fazer no ônibus.
+Ui, golpe baixo!
+Olha, "golpe baixo" daria um novo app excelente! Ele tem "compras pelo próprio app" escrito na testa.
+Aplicações não neutras construídas sobre a Rede neutra estão se tornando tão inescapáveis quanto o puxão de um buraco negro.
+Se o Facebook é a sua experiência da Rede, então você está vestiu os óculos de uma empresa com a responsabilidade fiduciária de evitar que você jamais tire os óculos.
+Google, Amazon, Facebook, Apple estão todas no negócio de óculos. A maior verdade os óculos deles escondem: Essas empresas querem nos segurar do jeito que buracos negros seguram a luz.
+As singularidades dessas empresas são perigosas não porque elas sejam do mal. Muitas delas de fato se engajam em comportamentos cívicos bastante notáveis. Elas deveriam ser aplaudidas por isso.
+Mas elas se beneficiam da gravidade da sociealidade: O "efeito de rede" é aquela coisa onde muitas pessoas usam algo porque muitas pessoas usam algo.
+Onde não há alterantivas competitivas, nós precisamos ser hipervigilantes para nos lembrar desse Titãs do Vale sobre os valores da Webizinha que os inspiraram em primeiro lugar.
+E então nós precisamos honrar o som que nós fazemos quando qualquer um de nós corajosamente se afasta deles. É algo entre o som de um foguete deixando a plataforma de lançamento e o abrir de um Velcro quando você se desfaz de um traje muito apertado.
+Ok, governo, você ganhou. Você tem nossos dados. Agora, o que podemos fazer para garantir que você os use contra Eles e não contra Nós? Na verdade, você consegue diferenciar? 
 Se nós quisermos que nosso governo desista, o acordo tem que ser que se — quando — o próximo ataque vier,  nós não podemos reclamar que eles deveriam ter nos vigiado mais duramente.
 Uma transação não é justa se nós não sabemos do que estamos abrindo mão. Ouviu isso, Barganha da Segurança pela Privacidade?
 Com uma probabilidade que se aproxima da certeza absoluta, nós iremos nos arrepender que nós não fizemos mais para manter nossos dados fora das mãos dos nossos governos e suseranos corporativos.
